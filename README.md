@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilendra0709&label=Profile%20views&color=0e75b6&style=flat" alt="akhilendra0709" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilendra0709" alt="akhilendra0709" /></a> </p>
-
 - 🌱 I’m currently learning **Modern frameworks, container orchestration (Kubernetes), cloud automation, and CI/CD tools**
 
 - 👯 I’m looking to collaborate on **Innovative web apps, automation tools, and cloud-native projects**
